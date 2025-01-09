@@ -1,0 +1,9 @@
+{
+  "emakefun.Dm11": "DM11 class .\n\n创建一个新的DM11对象.\n\n\n@返回一个新的DM11对象",
+  "emakefun.Dm11.set_pwm_duty": "设置Pwm通道的占空比.\n\n@param channel 通道号,范围:0~3\n@param duty 占空比,范围:0~4095",
+  "emakefun.Dm11.set_pwm_duty|param|channel": "电机通道号,范围:0~3",
+  "emakefun.Dm11.set_pwm_duty|param|duty": "占空比,范围:0~4095",
+  "emakefun.createDM11": "创建一个新的DM11对象.\n\n@param frequency_hz 电机的频率,范围:1~10000,默认1000Hz\n@param i2c_address I2C地址,默认0x15\n@返回一个新的DM11对象",
+  "emakefun.createDM11|param|frequency_hz": "电机的频率,范围:1~10000,默认1000Hz",
+  "emakefun.createDM11|param|i2c_address": "I2C地址,默认0x15"
+}
