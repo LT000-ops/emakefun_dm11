@@ -1,0 +1,7 @@
+{
+  "emakefun.Dm11.set_pwm_duty|block": "$this 设置通道 $channel 占空比为 $duty",
+  "emakefun.createDM11|block": "创建DM11模块对象的I2C地址为 $i2c_address 频率为 $frequency_hz",
+  "emakefun|block": "Emakefun",
+  "{id:category}Emakefun": "Emakefun",
+  "{id:subcategory}dm11": "dm11"
+}
