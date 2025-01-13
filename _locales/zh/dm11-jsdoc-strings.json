@@ -1,9 +1,0 @@
-{
-  "emakefun.Dm11": "DM11 类。\n\n创建一个新的 DM11 实例。\n\n\n@return 新的 DM11 对象",
-  "emakefun.Dm11.set_pwm_duty": "设置电机的 PWM 占空比",
-  "emakefun.Dm11.set_pwm_duty|param|channel": "电机的通道，范围: 0 ~ 3",
-  "emakefun.Dm11.set_pwm_duty|param|duty": "电机的占空比，范围: 0 ~ 4095",
-  "emakefun.createDM11": "用于控制双向电机驱动模块 DM11 的驱动程序。\n\n创建一个新的 DM11 实例。\n\n\n@return 新的 DM11 对象",
-  "emakefun.createDM11|param|frequency_hz": "DM11 的工作频率, 范围: 1 ~ 10000, 默认为 1000Hz",
-  "emakefun.createDM11|param|i2c_address": "DM11 的 I2C 地址, 默认为 0x15"
-}
